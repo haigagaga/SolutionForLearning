@@ -1,4 +1,4 @@
-
+package 杂;
 
 
 public class Quick {

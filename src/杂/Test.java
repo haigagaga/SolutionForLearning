@@ -1,3 +1,5 @@
+package 杂;
+
 import java.util.*;
 
 public class Test {

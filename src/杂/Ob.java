@@ -1,3 +1,5 @@
+package 杂;
+
 import java.util.Observable;
 
 public class Ob {
